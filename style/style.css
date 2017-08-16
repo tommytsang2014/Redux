@@ -1,0 +1,7 @@
+body{background:#eee;}
+input{border:0!important;text-align:right;}
+.btn{display:block;margin:0 auto;}
+.form_group{margin:15px 0;}
+.form_group:last-of-type{background:#fff;padding:30px 0 100px;}
+.input-group{margin:5px 0;}
+.input-group-addon{background:#fff;border:0;}
